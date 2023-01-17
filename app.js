@@ -5,3 +5,4 @@ console.log(tt);
 const minus = () => {};
 
 const hello = 2;
+const newF = () => {};
