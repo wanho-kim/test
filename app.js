@@ -3,3 +3,5 @@ console.log(t);
 console.log(tt);
 
 const minus = () => {};
+
+const hello = 2;
