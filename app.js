@@ -6,3 +6,5 @@ const minus = () => {};
 
 const hello = 2;
 const newF = () => {};
+
+console.log(newF);
